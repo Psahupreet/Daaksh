@@ -37,6 +37,8 @@ const allowedOrigins = [
 'https://daksh-admin.onrender.com',
   'https://daksh.smartbhopal.city',
   'https://admin8359dakshkarigar.smartbhopal.city'
+  'http://daksh.smartbhopal.city',
+  'http://admin8359dakshkarigar.smartbhopal.city'
 ];
 
 // ✅ CORS middleware
